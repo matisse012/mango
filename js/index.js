@@ -7,12 +7,10 @@ data:{
 methods:{
   login_frm:function(){
     if(!this.mi){
-     alert("아이디를 입력하세요");
-     this.mi.focus();
+     alert("아이디를 입력하세요")
     }
     else if(!this.mp){
      alert("패스워드를 입력하세요"); 
-     this.mp.focus();
     }
     else{
      frm.action="http://mangsteen977.dothome.co.kr";
