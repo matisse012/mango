@@ -39,7 +39,22 @@ this is my jouney to understand what is git, and how it work!<br>
 
 ---
 
-```
+포트폴리오(http://mangsteen977.dothome.co.kr/portfolio/)
 
 ---
+
+```
+# [Project]
+- [x] HTML & CSS
+- [x] Javascript
+- [ ] Jquery
+- [x] Vue.js
+- [x] Scss
+- [x] Database
+```
+
+```
+![](https://cdn.pixabay.com/photo/2019/09/12/01/23/mangousteen-4470225__480.jpg "img_mangosteen")
+---
+
 ```
