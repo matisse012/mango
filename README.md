@@ -7,6 +7,8 @@ I'm not a native speaker of English So,<b> you should try to understand what i w
 haha Just kidding! but Can you do for ME?! haha<br>
 this is my jouney to understand what is git, and how it work!<br>
 
+---
+
 ```
 
 ```
@@ -16,8 +18,6 @@ this is my jouney to understand what is git, and how it work!<br>
 |----|---|--|
 |1|**2**|3|
 |4|<span style="color:blue">5</span>|6|
-|1|2|3|
-|4|5|6|
 
 ---
 
