@@ -53,8 +53,8 @@ this is my jouney to understand what is git, and how it work!<br>
 - [x] Database
 ```
 
-```
-![](https://cdn.pixabay.com/photo/2019/09/12/01/23/mangousteen-4470225__480.jpg "img_mangosteen")
 ---
 
-```
+![](https://cdn.pixabay.com/photo/2019/09/12/01/23/mangousteen-4470225__480.jpg "img_mangosteen")
+
+---
