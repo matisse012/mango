@@ -1,3 +1,4 @@
+console.log("123test");
 let login = new Vue({
 el:"#vue_login",
 data:{
