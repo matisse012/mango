@@ -11,12 +11,12 @@ this is my jouney to understand what is git, and how it work!<br>
 
 ```
 표만들기
-|테스트1|테스트2|테스트3|
-|----|---|--|
-|1|**2**|3|
-|4|<span style="color:blue">5</span>|6|
-
 ```
+
+| 테스트1 | 테스트2                           | 테스트3 |
+| ------- | --------------------------------- | ------- |
+| 1       | **2**                             | 3       |
+| 4       | <span style="color:blue">5</span> | 6       |
 
 ---
 
